@@ -1,0 +1,14 @@
+C:\Users\md048\source\repos\LinkedListAssignment\bin\Debug\netcoreapp3.1\LinkedListAssignment.exe
+C:\Users\md048\source\repos\LinkedListAssignment\bin\Debug\netcoreapp3.1\LinkedListAssignment.deps.json
+C:\Users\md048\source\repos\LinkedListAssignment\bin\Debug\netcoreapp3.1\LinkedListAssignment.runtimeconfig.json
+C:\Users\md048\source\repos\LinkedListAssignment\bin\Debug\netcoreapp3.1\LinkedListAssignment.runtimeconfig.dev.json
+C:\Users\md048\source\repos\LinkedListAssignment\bin\Debug\netcoreapp3.1\LinkedListAssignment.dll
+C:\Users\md048\source\repos\LinkedListAssignment\bin\Debug\netcoreapp3.1\LinkedListAssignment.pdb
+C:\Users\md048\source\repos\LinkedListAssignment\obj\Debug\netcoreapp3.1\LinkedListAssignment.csproj.AssemblyReference.cache
+C:\Users\md048\source\repos\LinkedListAssignment\obj\Debug\netcoreapp3.1\LinkedListAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\md048\source\repos\LinkedListAssignment\obj\Debug\netcoreapp3.1\LinkedListAssignment.AssemblyInfoInputs.cache
+C:\Users\md048\source\repos\LinkedListAssignment\obj\Debug\netcoreapp3.1\LinkedListAssignment.AssemblyInfo.cs
+C:\Users\md048\source\repos\LinkedListAssignment\obj\Debug\netcoreapp3.1\LinkedListAssignment.csproj.CoreCompileInputs.cache
+C:\Users\md048\source\repos\LinkedListAssignment\obj\Debug\netcoreapp3.1\LinkedListAssignment.dll
+C:\Users\md048\source\repos\LinkedListAssignment\obj\Debug\netcoreapp3.1\LinkedListAssignment.pdb
+C:\Users\md048\source\repos\LinkedListAssignment\obj\Debug\netcoreapp3.1\LinkedListAssignment.genruntimeconfig.cache
