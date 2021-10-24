@@ -11,6 +11,7 @@ namespace LinkedListAsign
             list.Add(70);
             list.Add(30);
             list.Add(56);
+            list.DeleteFirstNode();
             list.Display();
 
         }

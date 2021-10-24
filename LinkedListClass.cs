@@ -7,13 +7,20 @@ namespace LinkedListAsign
     class LinkedListClass
     {
         internal Node head;
+        private Node start;
+        public LinkedListClass()
+        {
+            start = null;
+        }
 
         internal void Add(int data)
         {
             Node node = new Node(data);
+
             if (this.head == null)
             {
                 this.head = node;
+                this.head.next = null;
             }
             else
             {
@@ -25,6 +32,15 @@ namespace LinkedListAsign
                 temp.next = node;
             }
             Console.WriteLine("{0} inserted into the Linked List", node.data);
+        }
+        public void DeleteFirstNode()
+        {
+            if (start == null)
+                return;
+
+            start = start.next;
+            Console.WriteLine("{0} 1st node got deleted into the Linked List");
+
         }
         internal void Display()
         {
@@ -40,6 +56,7 @@ namespace LinkedListAsign
                 temp = temp.next;
             }
         }
+        
 
     }
 }
